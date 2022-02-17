@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AKS-Construction/static/css/main.80c2ee33.css",
+    "main.js": "/AKS-Construction/static/js/main.efde1801.js",
+    "index.html": "/AKS-Construction/index.html",
+    "main.80c2ee33.css.map": "/AKS-Construction/static/css/main.80c2ee33.css.map",
+    "main.efde1801.js.map": "/AKS-Construction/static/js/main.efde1801.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c2ee33.css",
+    "static/js/main.efde1801.js"
+  ]
+}
