@@ -6,7 +6,7 @@
     },
     "parameters": {
         "location": {
-            "value": "westeurope"
+            "value": "eastus"
         },
         "resourceName": {
             "value": "simplecluster"
