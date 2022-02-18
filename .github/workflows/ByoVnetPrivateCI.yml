@@ -34,7 +34,10 @@ on:
         options:
           - "azurecirgs"
           - "csu"
-          - ""
+          - "Production"
+          - "Staging"
+          - "Development"
+          
   push:
     paths:
       - 'bicep/*'
